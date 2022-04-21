@@ -1,1 +1,1 @@
-# jsamazona
+# Palindrome checker
